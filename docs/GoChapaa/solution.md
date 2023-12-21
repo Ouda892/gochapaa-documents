@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-![Beautiful Landscape](../../static/img/solutions.png)
+<img src='../../static/img/solutions.png' alt='GoChapaa Solutions'  style="width: 100vw; height: 100vh;"/>
